@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Put the correct combination of switches to make the light turn on
 
 ## How to test
 
-Explain how to use your project
+Turn some switches on or off to see which ones make the light to
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED light, 7 segment display
