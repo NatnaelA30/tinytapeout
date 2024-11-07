@@ -13,7 +13,7 @@ Put the correct combination of switches to make the light turn on
 
 ## How to test
 
-Turn some switches on or off to see which ones make the light to
+Turn some switches on or off to see which ones make the light turn on
 
 ## External hardware
 
